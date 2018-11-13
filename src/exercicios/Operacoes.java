@@ -40,6 +40,8 @@ public class Operacoes {
             }
             JOptionPane.showMessageDialog(null,"O resultado da operação é: "+resultado);
             }
-        
+        }
+    }
+}
     
 
